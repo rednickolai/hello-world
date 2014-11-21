@@ -1,7 +1,11 @@
 hello-world
 ===========
 
-Blah blah blah blah
+Installation
+------------
+    git clone https://github.com/mokeefemomoney/hello-world.git
+    ruby print.rb
 
-
-This is some more new stuff
+Usage
+-----
+Congratulations. You're retired
